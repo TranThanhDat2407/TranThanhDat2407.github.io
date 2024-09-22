@@ -1,0 +1,423 @@
+.user_Avata {
+  margin-left: -120px;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  height: 200px;
+  /* background-color: aqua; */
+  /* border: 1px solid #f0f0f0; */
+}
+
+.user_Avata label {
+  font-size: 16px;
+  font-weight: bold;
+}
+.profile_email_titel a {
+  color: #198758;
+}
+.icon_user {
+  margin-top: -20px;
+  margin-left: 64px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  /* background-color: rgb(0, 0, 0); */
+  border: 3px solid #f0f0f0;
+}
+.br_up {
+  border: 3px solid #f0f0f0;
+
+  margin-top: -30px;
+  margin-left: -70px;
+  z-index: -1;
+  width: 120px;
+  height: 120px;
+  border-radius: 120px;
+  background-color: rgb(255, 255, 255);
+}
+.icon_user i {
+  z-index: 999;
+  color: #8dd6ce;
+  font-size: 50px;
+  margin-top: 23px;
+  margin-left: 26px;
+}
+
+.user_Avata {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.name_User {
+  width: 250px;
+  border: 3px solid #f0f0f0;
+  margin-left: -10px;
+  height: 110px;
+  /* background-color: aqua; */
+}
+
+.name_User label {
+  color: #198754;
+  height: 48px;
+  /* background-color: rgb(73, 83, 83); */
+  margin-top: 60px;
+  text-align: center;
+  width: 250px;
+
+  font-size: 16px;
+  /* margin-top: 10px; */
+}
+.form_profile {
+  margin-top: 1px;
+  width: 900px;
+  height: 68px;
+  /* background-color: red; */
+  border: 1px solid black;
+  margin-left: -100px;
+}
+
+.titel_profile {
+  margin-left: -11px;
+  width: 899px;
+  margin-top: 10px;
+  height: 40px;
+  /* background-color: rgb(53, 16, 201); */
+}
+
+.titel_profile strong {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.titel_profile p {
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+.text_prf {
+  margin-top: 7px;
+}
+
+.ip_prf input {
+  border-top: 3px solid #198758;
+  border-bottom: 3px solid #198758;
+  border-left: 3px solid #198758;
+  margin-left: -140px;
+  height: 40px;
+  width: 370px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.btn_prf button {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-top-right-radius: 10px;
+  margin-left: -34px;
+  border: 3px solid #198758;
+  border-bottom-right-radius: 10px;
+  height: 40px;
+  width: 148px;
+  background-color: #198758;
+}
+
+.btn_prf button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+
+.set_btnMenu li button {
+  font-size: 16px;
+  font-weight: bolder;
+  margin-left: -15px;
+  /* background-color: aqua; */
+}
+.decor_btn_menu {
+  background-color: white;
+  color: #abadad;
+  border: none;
+  height: 60px;
+  width: 245px;
+}
+.decor_btn_menu.active {
+  color: #198754;
+  /* background-color: black ; */
+  border-right: 7px solid #198754;
+}
+.tab_history {
+  border: 3px solid #f0f0f0;
+   width: 990px;
+    height:740px;
+  margin-top: -30px;
+  border-radius: 12px;
+}
+.tab_Mini1 {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.tab_Mini2 {
+  margin-top: 20px;
+  border-radius: 7px;
+  margin-left: 50px;
+  width: 905px;
+  height: 623px;
+  /* background-color: greenyellow; */
+  border: 3px solid #f0f0f0;
+  
+}
+.tab_Mini2 table thead tr th label {
+  color: #1e1e1e;
+}
+.decor_detailBill_adress {
+  margin-top:12px;
+  margin-left: 5px;
+  width: 870px;
+  height: 81px;
+  /* background-color: red; */
+}
+
+.decor_detailBill_adress label {
+  font-size: 14px;
+  font-weight: 700;
+}
+.decor_detailBill_adress p {
+  color: #757575;
+  margin-left: 0px;
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: -1px;
+}
+.decor_detailBill_product {
+  border-top: 3px solid #f0f0f0;
+  border-bottom: 3px solid #f0f0f0;
+
+ 
+  margin-top: 20px;
+  width: 920px;
+  height: 30px;
+  /* background-color: rgb(0, 255, 72); */
+}
+
+.decor_detailBill_product label {
+  font-size: 14px;
+  font-weight: 700;
+}
+.decor_detailBill_items {
+  border-bottom: 3px solid #f0f0f0;
+
+  overflow-y: auto;
+  width: 3000px;
+  height: 350px;
+  /* background-color: rgb(125, 102, 195); */
+}
+.item_detail {
+  border-bottom: 3px solid #f0f0f0;
+
+  width: 870px;
+  /* background-color: blue; */
+  margin-top: 7px;
+}
+.name_items {
+  margin-top: 12px;
+  width: 260px;
+  height: 50px;
+}
+.name_items strong {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: #198754;
+}
+
+.quantity_item {
+  margin-left: 8px;
+  margin-top: 15px;
+  width: 800px;
+}
+.quantity_item p {
+  /* background-color:rgb(33, 35, 114); */
+
+  width: 700px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.total_items {
+  
+
+  border-bottom: 3px solid #f0f0f0;
+  margin-top:340px;
+  width: 3733px;
+  height: 60px;
+  /* background-color: #198754; */
+}
+.formRegetPass {
+  padding: 0px 100px 0px 100px;
+}
+.rate {
+  padding-right: 10px;
+}
+#full-stars-example {
+  /* use display:inline-flex to prevent whitespace issues. alternatively, you can put all the children of .rating-group on a single line */
+  .rating-group {
+    display: inline-flex;
+  }
+
+  /* make hover effect work properly in IE */
+  .rating__icon {
+    pointer-events: none;
+  }
+
+  /* hide radio inputs */
+  .rating__input {
+    position: absolute !important;
+    left: -9999px !important;
+  }
+
+  /* set icon padding and size */
+  .rating__label {
+    cursor: pointer;
+    padding: 0 0.1em;
+    font-size: 2rem;
+  }
+
+  /* set default star color */
+  .rating__icon--star {
+    color: #ffd43b;
+  }
+
+  /* set color of none icon when unchecked */
+  .rating__icon--none {
+    color: #eee;
+  }
+
+  /* if none icon is checked, make it red */
+  .rating__input--none:checked + .rating__label .rating__icon--none {
+    color: red;
+  }
+
+  /* if any input is checked, make its following siblings grey */
+  .rating__input:checked ~ .rating__label .rating__icon--star {
+    color: #ddd;
+  }
+
+  /* make all stars orange on rating group hover */
+  .rating-group:hover .rating__label .rating__icon--star {
+    color: #ffd43b;
+  }
+
+  /* make hovered input's following siblings grey on hover */
+  .rating__input:hover ~ .rating__label .rating__icon--star {
+    color: #ddd;
+  }
+
+  /* make none icon grey on rating group hover */
+  .rating-group:hover
+    .rating__input--none:not(:hover)
+    + .rating__label
+    .rating__icon--none {
+    color: #eee;
+  }
+
+  /* make none icon red on hover */
+  .rating__input--none:hover + .rating__label .rating__icon--none {
+    color: red;
+  }
+}
+
+.ofCan_address {
+  /* border-top: 10px solid #f0f0f0; */
+  border-radius: 5px;
+  margin-left: 500px;
+  margin-bottom: 50px;
+  width: 500px;
+  height: 560px !important; /* Điều chỉnh chiều cao theo nhu cầu của bạn */
+}
+.infor {
+  /* border-top: 10px solid #f0f0f0; */
+  margin-left: 500px;
+  border-radius: 5px;
+  margin-bottom: 200px;
+  width: 570px;
+  height: 400px !important; /* Điều chỉnh chiều cao theo nhu cầu của bạn */
+  padding: 50px;
+}
+.infor_name {
+  margin-left: 500px;
+  border-radius: 5px;
+  margin-bottom: 200px;
+  width: 570px;
+  height: 400px !important; /* Điều chỉnh chiều cao theo nhu cầu của bạn */
+  padding: 50px;
+}
+.title_decor {
+  height: 50px;
+}
+
+.title_decor_phone {
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 15px;
+}
+.title_decor label {
+  margin-left: 140px;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 15px;
+}
+.body_decor {
+  width: 500px;
+  height: 500px;
+  /* background-color: red */
+}
+.body_decor label {
+  font-weight: bolder;
+}
+.form_decor {
+  padding-bottom: 20px;
+}
+
+.inforTab_header {
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.inforUser {
+  width: 965px;
+  height: 300px;
+  margin-top: 50px;
+  border: 3px solid #f0f0f0;
+  border-radius: 20px;
+  margin-left: 42px;
+}
+
+.detail_infor {
+  padding: 40px 40px;
+  height: 100%;
+}
+
+.lable {
+  font-weight: 500;
+  font-size: 25px;
+}
+.text {
+  line-height: 2.7;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+.detail_infor a {
+  line-height: 2.7;
+  color: #198754;
+  font-weight: bold;
+}
+.detail_infor input {
+  width: 500px;
+}
+.forgetPass_Tab_header {
+  padding: 30px 0px 20px 40px;
+}

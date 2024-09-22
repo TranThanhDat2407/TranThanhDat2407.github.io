@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand:hover{
+    color: black !important;
+}
+
+.navbar-nav{
+    display: flex;
+    height: 100%;
+    cursor: pointer;
+    padding: 16px 0;
+}
+
+.nav-item{
+    padding: 0 16px;
+}
+
+
+.nav-link{
+    text-transform: uppercase;
+}
+
+.bx:hover{
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    color: green !important;
+}
+
+/* .nav-link:hover{
+    color: green !important;
+} */
+
+.tabs{
+    color: green !important;
+    border: 3px solid transparent;
+    display: block;
+}
+
+.tabs:hover {
+    color: green !important;
+    border-bottom: 3px solid green;
+}
+
+
+.fab:hover{
+    color: green !important;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+
+.form-check-input:checked{
+    background-color: green !important;
+}
+
+.accordion{
+    --bs-accordion-active-bg:#DAFFCB !important;
+    --bs-accordion-active-color:green !important ;
+}
+
+.tooltip .tooltip-inner{
+    max-width: 500px !important;
+    width: 330px !important;
+}
+
+h5,h6{
+    margin-bottom: 0px !important;
+}
+
+.active>.page-link, .page-link.active {
+    z-index: 3;
+    color: white !important;
+    background-color: green !important;
+    border-color: green !important;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: green !important;
+    background-color: #DAFFCB !important;
+    border-color: #DAFFCB !important;
+}
+/* .carousel-indicators img.active {
+   border: 1px  solid black !important;
+} */
+
+
+.payment_detail input {
+    margin-bottom: 10px  !important;
+  }
+  .sticky {
+    position: sticky !important;
+    top: 100px  !important;
+    z-index: 0  !important;
+    background-color: white  !important;
+    padding-top: 1rem  !important;
+    padding-bottom: 1rem  !important;
+  }

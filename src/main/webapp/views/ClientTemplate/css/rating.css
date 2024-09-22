@@ -1,0 +1,123 @@
+.titel1{
+    margin-top: 70px;
+   font-weight: bold;
+   text-align: center;
+}
+.detail_pr p {
+    font-weight: 4  00;
+}
+.detail_pr strong{
+    font-size: 20px;
+}
+.titel2 strong{
+  padding-top: 60px;
+    font-size: 20px;
+}
+.titel2{
+margin-top: 40px;
+margin-left: 30px;
+}
+.box1{
+    width: 500px;
+    height: 200px;
+    /* background-color: rebeccapurple; */
+    margin-left: 30px;
+    margin-top: 40px;
+    border-right: 1px solid #ededed;
+}
+.rating_text{
+    text-align: center;
+}
+.rating_text p{
+    margin-top: 70px;
+    font-weight: bold;
+font-size: 20px;
+}
+.icon_rating_text{
+    margin-top: 10px;
+}
+.icon_rating_text i {
+margin-left: 12px;
+}
+.box2{
+    width: 700px;
+    height: 200px;
+    /* background-color: aqua; */
+    margin-top: 40px;
+}
+.colors_rating_red{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #d70018;
+    height: 8px;
+}
+.colors_rating_white{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #e8e3e3;
+    height: 8px;
+}
+.crossbar_rating_red{
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 350px;
+    height: 8px;
+    background-color: #d70018
+}
+.crossbar_rating_white{
+    margin-top: 10px;
+    margin-left: 2px;
+    border-radius: 10px;
+    width: 350px;
+    height: 8px;
+    background-color: #e8e3e3
+}
+.box3 button{
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: bold;
+width: 190px;
+height: 50px;
+}
+.titel2 button{
+    margin-top: 10px;
+    border-radius: 12px;
+    border: 0px solid #f2f3f5   ;
+    font-size: 14px;
+    font-weight: bold;
+width: 120px;
+height: 35px;
+}
+ 
+.box4 button{
+    margin-right: -50px;
+    
+    color: #000000;
+    margin-left: 56px;
+    margin-top: 12px;
+    border-radius: 10px;
+    border: 0px solid #f2f3f5   ;
+    font-size: 14px;
+    font-weight: bold;
+width: 60px;
+height: 35px;
+}
+.avata{
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
+    background-color: rebeccapurple;
+}
+.comment_rating{
+    overflow-y: auto; 
+    width: 1150px;
+    height: 600px;
+}
+.box3 button:hover{
+    background-color: #000000;
+    color: white;
+}
+
+ 

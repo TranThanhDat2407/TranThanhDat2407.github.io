@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "name": "Táo Vàng",
+        "price": 10000,
+        "quantity":1,
+        "img": "apple1.png"
+    },
+    {
+        "id": 2,
+        "name": "Táo Đỏ",
+        "price": 20000,
+        "quantity":1,
+        "img": "apple2.png"
+    },
+    {
+        "id": 3,
+        "name": "Táo Mỹ",
+        "price": 30000,
+        "quantity":1,
+        "img": "apple3.png"
+    },
+    {
+        "id": 4,
+        "name": "Táo Xanh",
+        "price": 40000,
+        "quantity":1,
+        "img": "apple4.png"
+    },
+    {
+        "id": 5,
+        "name": "Bơ Xanh",
+        "price": 50000,
+        "quantity":1,
+        "img": "avocado1.png"
+    },
+    {
+        "id": 6,
+        "name": "Bơ Nâu",
+        "price": 60000,
+        "quantity":1,
+        "img": "avocado2.png"
+    },
+    {
+        "id": 7,
+        "name": "Chuối Loại 1",
+        "price": 50000,
+        "quantity":1,
+        "img": "banana1.png"
+    },
+    {
+        "id": 8,
+        "name": "Chuối Loại 2",
+        "price": 60000,
+        "quantity":1,
+        "img": "banana2.png"
+    },
+    {
+        "id": 9,
+        "name": "Chuối Mỹ",
+        "price": 50000,
+        "quantity":1,
+        "img": "banana3.png"
+    },
+    {
+        "id": 10,
+        "name": "Chuối Việt Nam",
+        "price": 70000,
+        "quantity":1,
+        "img": "banana4.png"
+    },
+    {
+        "id": 11,
+        "name": "Việt Quất Loại 1",
+        "price": 10000,
+        "quantity": 1,
+        "img": "blueberry1.png"
+    },
+    {
+        "id": 12,
+        "name": "Việt Quất Loại 2",
+        "price": 20000,
+        "quantity": 1,
+        "img": "blueberry2.png"
+    },
+    {
+        "id": 13,
+        "name": "Việt Quất Loại 3",
+        "price": 50000,
+        "quantity": 1,
+        "img": "blueberry3.png"
+    },
+    {
+        "id": 14,
+        "name": "Việt Quất Loại 4",
+        "price": 40000,
+        "quantity": 1,
+        "img": "blueberry4.png"
+    },
+    {
+        "id": 15,
+        "name": "Cherry Mỹ",
+        "price": 10000,
+        "quantity": 1,
+        "img": "cherry1.png"
+    },
+    {
+        "id": 16,
+        "name": "Cherry Đà Lạt",
+        "price": 50000,
+        "quantity": 1,
+        "img": "cherry2.png"
+    },
+    {
+        "id": 17,
+        "name": "Cherry Loại 1",
+        "price": 30000,
+        "quantity": 1,
+        "img": "cherry3.png"
+    },
+    {
+        "id": 18,
+        "name": "Cherry Triều Tiên",
+        "price": 60000,
+        "quantity": 1,
+        "img": "cherry4.png"
+    },
+    {
+        "id": 19,
+        "name": "Nho Tím",
+        "price": 10000,
+        "quantity": 1,
+        "img": "grape1.png"
+    },
+    {
+        "id": 20,
+        "name": "Nho Xanh",
+        "price": 20000,
+        "quantity": 1,
+        "img": "grape2.png"
+    },
+    {
+        "id": 21,
+        "name": "Nho Đỏ",
+        "price": 30000,
+        "quantity": 1,
+        "img": "grape3.png"
+    },
+    {
+        "id": 22,
+        "name": "Nho Đen",
+        "price": 40000,
+        "quantity": 1,
+        "img": "grape4.png"
+    },
+    {
+        "id": 23,
+        "name": "Kiwi Loại 1",
+        "price": 10000,
+        "quantity": 1,
+        "img": "kiwi1.png"
+    },
+    {
+        "id": 24,
+        "name": "Kiwi Loại 2",
+        "price": 20000,
+        "quantity": 1,
+        "img": "kiwi2.png"
+    },
+    {
+        "id": 25,
+        "name": "Kiwi Loại 3",
+        "price": 30000,
+        "quantity": 1,
+        "img": "kiwi3.png"
+    },
+    {
+        "id": 26,
+        "name": "Kiwi Loại 4",
+        "price": 40000,
+        "quantity": 1,
+        "img": "kiwi4.png"
+    }
+]
+
